@@ -6,3 +6,5 @@ English/stack.db
 
 *.xml
 *.7z
+*.pickle
+*.md
