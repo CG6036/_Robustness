@@ -9,3 +9,4 @@ English/stack.db
 *.pickle
 *.md
 *.pkl
+*.csv
