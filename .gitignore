@@ -5,8 +5,11 @@ Arqade/stack.db-wal
 English/stack.db
 
 *.xml
+*.xls
+*.xlsx
 *.7z
 *.pickle
 *.md
 *.pkl
 *.csv
+*.txt
